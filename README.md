@@ -1,4 +1,4 @@
-# linux-applications-script
+# linux debian based - popular applications-script
 a shell scripting for most used and useful applications
 This script works only for debian based distributions
 contains following applications: 
